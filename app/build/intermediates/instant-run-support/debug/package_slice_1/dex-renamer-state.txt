@@ -1,0 +1,4 @@
+#Thu Dec 21 14:04:09 UTC 2017
+base.0=/home/it24/AndroidStudioProjects/Ujicoba/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

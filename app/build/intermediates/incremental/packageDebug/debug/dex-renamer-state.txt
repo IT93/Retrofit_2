@@ -1,0 +1,4 @@
+#Thu Dec 21 16:02:00 ICT 2017
+base.0=E\:\\WeltesDev\\Android Project\\Ujicoba\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+path.0=classes.dex
+renamed.0=classes.dex
